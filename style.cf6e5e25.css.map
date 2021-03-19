@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UAEI,QAAS,CACT,SACJ,CAEA,MACI,aACJ,CACA,WACI,WAAY,CACZ,YACJ","file":"style.cf6e5e25.css","sourceRoot":"..","sourcesContent":["html,\nbody {\n    margin: 0;\n    padding: 0;\n}\n\ncanva {\n    display: block;\n}\n#container {\n    width: 100vw;\n    height: 100vh;\n}"]}
